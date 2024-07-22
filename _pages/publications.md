@@ -6,18 +6,16 @@ author_profile: true
 ---
 
 
-### Counterfactual Explanation at Will, with Zero Privacy Leakage
+### Counterfactual Explanation at Will, with Zero Privacy Leakage. *SIGMOD 2024*
 
 Shuai An and Yang Cao
 
-**SIGMOD 2024**
 
 <br>
 
-### Counterfactual Explanation at Will, with Zero Privacy Leakage
+### Counterfactual Explanation at Will, with Zero Privacy Leakage. *SIGMOD 2024*
 
 Shuai An and Yang Cao
 
-**SIGMOD 2024**
 
 
