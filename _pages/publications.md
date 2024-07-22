@@ -9,6 +9,7 @@ author_profile: true
 ### [Counterfactual Explanation at Will, with Zero Privacy Leakage](https://dl.acm.org/doi/pdf/10.1145/3654933). 
 
 Shuai An and Yang Cao<br>
+
 <small>Proceedings of the ACM on Management of Data (**SIGMOD 2024**)<small>
 
 <div style="margin-top: 15px;"></div>
