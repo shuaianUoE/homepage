@@ -10,7 +10,7 @@ author_profile: true
 
 Shuai An and Yang Cao<br>
 
-<small>Proceedings of the ACM on Management of Data (**SIGMOD 2024**)<small>
+Proceedings of the ACM on Management of Data (**SIGMOD 2024**)
 
 <div style="margin-top: 15px;"></div>
 
