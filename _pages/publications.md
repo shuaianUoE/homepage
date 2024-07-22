@@ -42,7 +42,7 @@ Shuai An and Yang Cao
 
 ACM Conference on Information and Knowledge Management (**CIKM 2017**)
 
-<div style="margin-top: 10px;"></div>
+<div style="margin-top: 12px;"></div>
 
 ### [Local-nearest-neighbors-based feature weighting for gene selection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7942061). 
 
