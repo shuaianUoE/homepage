@@ -18,6 +18,6 @@ of offering reliable explanations to their customers. In
 addition, the increasing popularity of ML features rapidly boosts the scale
 of applications while the underlying legacy database systems are struggling to scale out, causing tension between the application load and database system. My work aims to address these challenges of explainability and scalability in ML-powered database applications.
 
-Prior to my PhD at the University of Edinburgh, I worked as an algorithm engineer at JD.com for two years following my Master’s degree in Computer Science from Nankai University in 2018.
+Prior to my PhD at the University of Edinburgh, I worked as an algorithm engineer at [JD.com](https://corporate.jd.com/) for two years following my Master’s degree in Computer Science from [Nankai University](https://en.nankai.edu.cn/) in 2018.
 
 
