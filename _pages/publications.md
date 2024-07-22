@@ -11,7 +11,7 @@ author_profile: true
 Shuai An and Yang Cao
 
 
-<br>
+<div style="margin-top: 10px;"></div>
 
 ### Counterfactual Explanation at Will, with Zero Privacy Leakage. *SIGMOD 2024*
 
