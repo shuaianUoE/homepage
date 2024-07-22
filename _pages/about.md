@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a final-year PhD candidate at the [Laboratory of Foundations of Computer Science](https://web.inf.ed.ac.uk/lfcs/people) (LFCS), School of Informatics, University of Edinburgh. I am fortunate to be advised by Professor Yang. I will graduate in August 2024 and plan to continue working with Professor Yang as a research associate.
+Welcome! I am a final-year PhD candidate at the [Laboratory of Foundations of Computer Science](https://web.inf.ed.ac.uk/lfcs/people) (LFCS), [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/). I am fortunate to be advised by Professor [Yang Cao](https://homepages.inf.ed.ac.uk/ycao/). 
 
-My research focuses on scaling and explaining DBMS for ML powered applications. the resurgence of ML services provided by big companies in recent years has been expeditiously reshaping the database applications, enabling them to easily take advantage of model prediction services
+I will graduate in August 2024 and plan to continue working with Yang as a research associate.
+
+My research focuses on scaling and explaining DBMS for ML powered applications. Recently, the resurgence of ML services provided by big companies has been expeditiously reshaping the database applications, enabling them to easily take advantage of model prediction services
 and be significantly more adaptive and intelligent. However, this movement
 causes these applications to be less transparent, rendering database vendors incapable
 of offering reliable explanations to their customers. In
