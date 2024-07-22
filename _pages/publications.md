@@ -16,7 +16,7 @@ Proceedings of the ACM on Management of Data (**SIGMOD 2024**)
 
 
 
-### [Relative Keys: Putting Feature Explanation into Context](https://dl.acm.org/doi/pdf/10.1145/3639263). *SIGMOD 2024*
+### [Relative Keys: Putting Feature Explanation into Context](https://dl.acm.org/doi/pdf/10.1145/3639263). 
 
 *Shuai An* and Yang Cao
 
@@ -26,7 +26,7 @@ Proceedings of the ACM on Management of Data (**SIGMOD 2024**)
 
 
 
-### [Making Cache Monotonic and Consistent](https://www.pure.ed.ac.uk/ws/portalfiles/portal/334530480/Making_Cache_AN_DOA18112022_VOR_CC_BY_NC_ND.pdf). *VLDB 2023*
+### [Making Cache Monotonic and Consistent](https://www.pure.ed.ac.uk/ws/portalfiles/portal/334530480/Making_Cache_AN_DOA18112022_VOR_CC_BY_NC_ND.pdf).
 
 *Shuai An* and Yang Cao
 
@@ -36,7 +36,7 @@ International Conference on Very Large Data Bases (**VLDB 2023**)
 
 
 
-### [Competitive Consistent Caching for Transactions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9835469). *ICDE 2022*
+### [Competitive Consistent Caching for Transactions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9835469). 
 
 *Shuai An*, Yang Cao and Wenyue Zhao
 
