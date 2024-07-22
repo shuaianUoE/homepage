@@ -12,7 +12,7 @@ title                    : "Shuai An / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shuai An"
 description              : &description "personal description"
-url                      : https://shuaian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shuaianuoe.github.io/shuaian.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuaianuoe/shuaian.github.io"
 
