@@ -21,12 +21,12 @@ repository               : "shuaianuoe/shuaian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "test1111"
+  avatar           : "shuaian_profile.png"
+  name             : "Shuai An"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D., University of Edinburgh"
   location         : "Edinburgh, Scotland, UK"
-  employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
