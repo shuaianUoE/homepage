@@ -45,6 +45,14 @@ International Conference on Data Engineering (**ICDE 2022**)
 <div style="margin-top: 15px;"></div>
 
 
+### [Unsupervised feature selection with joint clustering analysis](https://dl.acm.org/doi/pdf/10.1145/3269206.3271760). 
+
+Yuanyuan Xu, Jun Wang, *Shuai An*, Jinmao Wei and Jianhua Ruan
+
+ACM Conference on Information and Knowledge Management (**CIKM 2018**)
+
+<div style="margin-top: 15px;"></div>
+
 
 ### [Unsupervised feature selection with joint clustering analysis](https://dl.acm.org/doi/pdf/10.1145/3132847.3132999). 
 
