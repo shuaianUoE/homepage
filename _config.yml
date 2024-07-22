@@ -21,7 +21,7 @@ repository               : "shuaianuoe/shuaian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shuaian_profile.png"
+  avatar           : "shuaian_profile_1.png"
   name             : "Shuai An"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D., University of Edinburgh"
